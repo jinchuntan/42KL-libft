@@ -1,2 +1,2 @@
 # libft
-libft Project
+libft Project for the 42KL Core Project
